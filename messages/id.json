@@ -1,0 +1,31 @@
+{
+  "common": {
+    "loading": "Memuat...",
+    "error": "Kesalahan",
+    "success": "Berhasil"
+  },
+  "navigation": {
+    "home": "Beranda",
+    "about": "Tentang",
+    "services": "Layanan",
+    "contact": "Kontak"
+  },
+  "home": {
+    "title": "Selamat Datang di CT Gold",
+    "subtitle": "Mitra terpercaya untuk solusi digital Anda",
+    "description": "Kami menyediakan solusi teknologi inovatif untuk membantu bisnis Anda berkembang dan sukses di era digital.",
+    "cta": {
+      "getStarted": "Mulai Sekarang",
+      "learnMore": "Pelajari Lebih Lanjut"
+    }
+  },
+  "about": {
+    "title": "Tentang CT Gold",
+    "description": "Kami adalah perusahaan teknologi yang berfokus pada pengiriman pengalaman digital yang luar biasa."
+  },
+  "footer": {
+    "rights": "Semua hak dilindungi",
+    "privacy": "Kebijakan Privasi",
+    "terms": "Syarat dan Ketentuan"
+  }
+}

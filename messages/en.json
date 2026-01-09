@@ -1,0 +1,31 @@
+{
+  "common": {
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "home": {
+    "title": "Welcome to CT Gold",
+    "subtitle": "Your trusted partner for digital solutions",
+    "description": "We provide innovative technology solutions to help your business grow and succeed in the digital age.",
+    "cta": {
+      "getStarted": "Get Started",
+      "learnMore": "Learn More"
+    }
+  },
+  "about": {
+    "title": "About CT Gold",
+    "description": "We are a technology company focused on delivering exceptional digital experiences."
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service"
+  }
+}
